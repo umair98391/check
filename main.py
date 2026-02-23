@@ -1,4 +1,5 @@
 from fastapi import FastAPI
+import uvicorn
 
 # Create FastAPI app
 app = FastAPI()

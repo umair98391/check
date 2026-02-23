@@ -7,7 +7,7 @@ app = FastAPI()
 # Root endpoint
 @app.get("/")
 def read_root():
-    return {"message": "Hello Umair, How are You Man!"}
+    return {"message": "Pagal Ho"}
 
 
 # This makes the file executable directly
